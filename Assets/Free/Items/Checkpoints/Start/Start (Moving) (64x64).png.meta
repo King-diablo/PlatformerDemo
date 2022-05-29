@@ -1,0 +1,882 @@
+fileFormatVersion: 2
+guid: 579af0237815f5544ad7de480faa4041
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab912ca2ccdfaa49b5b2a3c8d1a16a5
+      internalID: -1992542527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c291a1a82199645b55c93159875e6f
+      internalID: 557142751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c52db068ceee60498a8ee441fb81d4e
+      internalID: 193370839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a40fb617400b44f891a604e492c659
+      internalID: 1180948129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597c124c80ca0974da82788c8250058d
+      internalID: -1796153248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961149f8359b3bc49b51de6e3721b8ef
+      internalID: -1635486984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94798705b0d5664438a15ee22f990be8
+      internalID: 513692435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_7
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bfd9038d53a614ea5a3914f674992f
+      internalID: 1211321989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9172bedc698e4b44d8907ef9e4f9eafe
+      internalID: 1795455676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e522b3f81bdb13b49814f1b213588bf2
+      internalID: -1470100693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc9f943d921c21408b5f232cfdcd410
+      internalID: -1133885278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 0
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4641444b72f1a6541a089c340005dba4
+      internalID: -1064776386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283e7aaed105fa74cbf91592bef1b7ac
+      internalID: -2130066480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_13
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e2d91d0edf5df4ab3be3d486d1a145
+      internalID: 661339392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_14
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe787baea62706438d1ad323425c9db
+      internalID: -2044311829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_15
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 0
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b9627a82496934cbdfe581e7f09e89
+      internalID: 1907206537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c400b6913b9ee49b8c978970c6af62
+      internalID: -653872785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_17
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 0
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f54836fe7c8ce459d2a56925b9e1d1
+      internalID: 1507540679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74508e049b131747a244fcfa956eee0
+      internalID: -2054325997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_19
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 0
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cf762b5e9db364dbb97d11aa862cd1
+      internalID: 2105612924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242de1044ad41fd43afff64b50efd1a9
+      internalID: 780007940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_21
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b781a0396850064da2ae12bc9acc598
+      internalID: 1572224786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_22
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 0
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759317898ac404140a14587e51f4bec0
+      internalID: -2034697714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_23
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 0
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3ffe73183462c438b17018a29abc14
+      internalID: 1430778218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_24
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 0
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c3fb3b7047f6149bb139ca4d0a2cb2
+      internalID: -1390834871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_25
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 0
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f8add3a486b6c4081ab2287d5d5dde
+      internalID: 252974558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_26
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 0
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b540ba8fb7fcb847a7632c5c9be3353
+      internalID: -558553794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_27
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 0
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2d06b63418d2a419edea4c1589db28
+      internalID: 511752541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_28
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 0
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9839160f7dab7304a9c9411fdff639e4
+      internalID: -321772579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_29
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39238d2bf79da1479e07b93d357bb57
+      internalID: 1694914247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_30
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 0
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44dac8f75937e2449f73ac825286190
+      internalID: 500768019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_31
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 0
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d52e1e4e537e844b94c80f2d78e63b
+      internalID: -184029441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_32
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e688c16ea2d2a4cab9ec6bd1bf0263
+      internalID: 559568203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start (Moving) (64x64)_33
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581a5b6b4de1900498a45dda9bd95103
+      internalID: 592599041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Start (Moving) (64x64)_26: -558553794
+      Start (Moving) (64x64)_23: 1430778218
+      Start (Moving) (64x64)_31: -184029441
+      Start (Moving) (64x64)_21: 1572224786
+      Start (Moving) (64x64)_2: 193370839
+      Start (Moving) (64x64)_6: 513692435
+      Start (Moving) (64x64)_22: -2034697714
+      Start (Moving) (64x64)_12: -2130066480
+      Start (Moving) (64x64)_28: -321772579
+      Start (Moving) (64x64)_30: 500768019
+      Start (Moving) (64x64)_5: -1635486984
+      Start (Moving) (64x64)_8: 1795455676
+      Start (Moving) (64x64)_20: 780007940
+      Start (Moving) (64x64)_24: -1390834871
+      Start (Moving) (64x64)_14: -2044311829
+      Start (Moving) (64x64)_4: -1796153248
+      Start (Moving) (64x64)_29: 1694914247
+      Start (Moving) (64x64)_27: 511752541
+      Start (Moving) (64x64)_17: 1507540679
+      Start (Moving) (64x64)_25: 252974558
+      Start (Moving) (64x64)_3: 1180948129
+      Start (Moving) (64x64)_32: 559568203
+      Start (Moving) (64x64)_18: -2054325997
+      Start (Moving) (64x64)_10: -1133885278
+      Start (Moving) (64x64)_1: 557142751
+      Start (Moving) (64x64)_33: 592599041
+      Start (Moving) (64x64)_9: -1470100693
+      Start (Moving) (64x64)_7: 1211321989
+      Start (Moving) (64x64)_13: 661339392
+      Start (Moving) (64x64)_15: 1907206537
+      Start (Moving) (64x64)_0: -1992542527
+      Start (Moving) (64x64)_11: -1064776386
+      Start (Moving) (64x64)_19: 2105612924
+      Start (Moving) (64x64)_16: -653872785
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
